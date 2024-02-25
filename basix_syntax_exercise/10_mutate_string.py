@@ -13,12 +13,3 @@ for index in range(len(first_string)):
     last_printed_string = new_string
 
 
-# string1 = input()
-# string2 = input()
-#
-# while True:
-#     for char1 in string1:
-#         for char2 in string2:
-#             string1[char1] = string2[char2]
-#             if string1[char1] != string2[char2]:
-#                 print(string1, end="")
